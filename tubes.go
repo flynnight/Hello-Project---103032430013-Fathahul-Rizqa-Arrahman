@@ -1,7 +1,7 @@
 package main
 
 import "fmt"
-
+// Ini komentar tambahan untuk tugas Git
 const NMAX int = 100
 type peminjam struct {
 	nama string
